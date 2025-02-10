@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋![background1](https://github.com/user-attachments/assets/9e7863ce-03ab-457a-bb5c-94211ca14804)
+
 
 <!--
 **bogdan-andrei-pitarca/bogdan-andrei-pitarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
