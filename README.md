@@ -2,8 +2,13 @@
 
 
 
-# About Me 🌱
+# ***About Me*** 🌱
 Hello and welcome! My name is Pitarca Bogdan-Andrei, and I am currently in my sophomore year of studying Computer Science at Babeș-Bolyai University, Cluj-Napoca. Seeing as I have always held an affinity towards coding, problem-solving and anything related to logical thinking, I aspire to continue down this path and persevere as best I can so that my impact can be felt.
+
+# ***My Mission*** 🔎
+- Delve deeper into the world of back-end computer programming and software engineering.
+- Work on personal coding projects and build a portfolio.
+- Deepen my programming skills and broaden my language repertoire, in order to apply these competencies in real-world situations.
 
 <!--
 **bogdan-andrei-pitarca/bogdan-andrei-pitarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
