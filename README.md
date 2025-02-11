@@ -13,5 +13,6 @@ Hello and welcome! My name is Pitarca Bogdan-Andrei, and I am currently in my so
 - Apply these competencies to **real-world situations**.
 
 # ***Contact*** 📫
-[LinkedIn](www.linkedin.com/in/bogdan-andrei-pitarca-ba71a4350) [E-Mail](bogdanandreipitarca@outlook.com)
+- [LinkedIn](www.linkedin.com/in/bogdan-andrei-pitarca-ba71a4350)
+- [E-Mail](bogdanandreipitarca@outlook.com)
 
