@@ -1,4 +1,5 @@
-![Welcome!](https://github.com/user-attachments/assets/590f1a91-e2ad-4ddd-8c6d-f53e08285764)
+![Untitled design](https://github.com/user-attachments/assets/c2b180b6-4609-4ad3-bb06-d8aff9aefd39)
+
 
 
 # About Me 🌱
