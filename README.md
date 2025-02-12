@@ -14,5 +14,5 @@ Hello and welcome! My name is Pitarca Bogdan-Andrei, and I am currently in my so
 
 # ***Contact*** 📫
 - [LinkedIn](www.linkedin.com/in/bogdan-andrei-pitarca-ba71a4350)
-- [E-Mail](bogdanandreipitarca@outlook.com)
+- [E-Mail](mailto::bogdanandreipitarca@outlook.com)
 
