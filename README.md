@@ -1,4 +1,4 @@
-![Untitled design](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,3,8,23&height=150&section=header&text=Welcome!&fontSize=70)
+![Untitled design](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,6,21&height=150&section=header&text=Welcome!&fontSize=70)
 
 
 
