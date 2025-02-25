@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/user-attachments/assets/c2b180b6-4609-4ad3-bb06-d8aff9aefd39)
+![Untitled design](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 
